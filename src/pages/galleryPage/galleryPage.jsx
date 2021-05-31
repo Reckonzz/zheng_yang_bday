@@ -14,21 +14,21 @@ const GalleryPage = () => {
         },
         {
             src: '/images/zy_design.jpg',
-            name: 'Clarence',
+            name: 'Name',
             caption: 'put a qoute or caption here', 
-            message:'Hi Zheng Yang, Happy Birthday :)))',  
+            message:'Put a message here ',  
         },
         {
             src: '/images/zy_grp_photo.jpg',
-            name: 'Clarence',
+            name: 'Name',
             caption: 'put a qoute or caption here', 
-            message:'Hi Zheng Yang, Happy Birthday :)))',  
+            message:'Put a message here',  
         },
         {
             src: '/images/zy_sleep.jpg',
-            name: 'Clarence',
+            name: 'Name',
             caption: 'put a qoute or caption here', 
-            message:'Hi Zheng Yang, Happy Birthday :)))',  
+            message:'Put a message here',  
         },
     ]
     return (
