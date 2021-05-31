@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/zheng-yang-bday/static/css/main.df3188ff.chunk.css",
-    "main.js": "/zheng-yang-bday/static/js/main.4052ac19.chunk.js",
-    "main.js.map": "/zheng-yang-bday/static/js/main.4052ac19.chunk.js.map",
-    "runtime-main.js": "/zheng-yang-bday/static/js/runtime-main.db455486.js",
-    "runtime-main.js.map": "/zheng-yang-bday/static/js/runtime-main.db455486.js.map",
-    "static/js/2.64048f7f.chunk.js": "/zheng-yang-bday/static/js/2.64048f7f.chunk.js",
-    "static/js/2.64048f7f.chunk.js.map": "/zheng-yang-bday/static/js/2.64048f7f.chunk.js.map",
-    "static/js/3.1c592b0d.chunk.js": "/zheng-yang-bday/static/js/3.1c592b0d.chunk.js",
-    "static/js/3.1c592b0d.chunk.js.map": "/zheng-yang-bday/static/js/3.1c592b0d.chunk.js.map",
-    "index.html": "/zheng-yang-bday/index.html",
-    "static/css/main.df3188ff.chunk.css.map": "/zheng-yang-bday/static/css/main.df3188ff.chunk.css.map",
-    "static/js/2.64048f7f.chunk.js.LICENSE.txt": "/zheng-yang-bday/static/js/2.64048f7f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/zheng-yang-bday/static/media/logo.6ce24c58.svg"
+    "main.css": "/zheng_yang_bday/static/css/main.df3188ff.chunk.css",
+    "main.js": "/zheng_yang_bday/static/js/main.4052ac19.chunk.js",
+    "main.js.map": "/zheng_yang_bday/static/js/main.4052ac19.chunk.js.map",
+    "runtime-main.js": "/zheng_yang_bday/static/js/runtime-main.12b2a0c8.js",
+    "runtime-main.js.map": "/zheng_yang_bday/static/js/runtime-main.12b2a0c8.js.map",
+    "static/js/2.64048f7f.chunk.js": "/zheng_yang_bday/static/js/2.64048f7f.chunk.js",
+    "static/js/2.64048f7f.chunk.js.map": "/zheng_yang_bday/static/js/2.64048f7f.chunk.js.map",
+    "static/js/3.1c592b0d.chunk.js": "/zheng_yang_bday/static/js/3.1c592b0d.chunk.js",
+    "static/js/3.1c592b0d.chunk.js.map": "/zheng_yang_bday/static/js/3.1c592b0d.chunk.js.map",
+    "index.html": "/zheng_yang_bday/index.html",
+    "static/css/main.df3188ff.chunk.css.map": "/zheng_yang_bday/static/css/main.df3188ff.chunk.css.map",
+    "static/js/2.64048f7f.chunk.js.LICENSE.txt": "/zheng_yang_bday/static/js/2.64048f7f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zheng_yang_bday/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db455486.js",
+    "static/js/runtime-main.12b2a0c8.js",
     "static/js/2.64048f7f.chunk.js",
     "static/css/main.df3188ff.chunk.css",
     "static/js/main.4052ac19.chunk.js"
