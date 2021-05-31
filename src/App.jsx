@@ -11,26 +11,26 @@ import NavBar from "./components/navBar/navBar"
 
 function App() {
   const navItems = [
-    {name: "Home", link: "/"},
-    {name: "Video", link: "/videoPage"},
-    {name: "Gallery", link: "/galleryPage"},
-    {name: "Game", link: "/gamePage"},
+    {name: "Home", link: `${process.env.PUBLIC_URL} + '/'`},
+    {name: "Video", link: `${process.env.PUBLIC_URL} + '/videoPage'`},
+    {name: "Gallery", link: `${process.env.PUBLIC_URL} + '/galleryPage'`},
+    {name: "Game", link: `${process.env.PUBLIC_URL} + '/gamePage'`},
   ]
   return (
     <Router>
       <div className="App">
          <NavBar navItems={navItems}/>
          <Switch> 
-            <Route exact path="/">
+            <Route exact path={`${process.env.PUBLIC_URL} + '/'`}>
                 <HappyBdayPage/> 
             </Route>
-            <Route path="/videoPage">
+            <Route path={`${process.env.PUBLIC_URL} + '/videoPage'`}>
                 <VideoPage/> 
             </Route>
-            <Route path="/galleryPage">
+            <Route path={`${process.env.PUBLIC_URL} + '/galleryPage'`}>
                 <GalleryPage/> 
             </Route>
-            <Route path="/gamePage">
+            <Route path={`${process.env.PUBLIC_URL} + '/gamePage'`}>
                 <GamePage/> 
             </Route>
          </Switch>
