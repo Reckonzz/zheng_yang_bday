@@ -14,7 +14,7 @@ function App() {
 
   const navItems = [
     {name: "Home", link: `${process.env.PUBLIC_URL}/`},
-    {name: "Video", link: `${process.env.PUBLIC_URL}/videoPage`},
+    {name: "Yes", link: `${process.env.PUBLIC_URL}/videoPage`},
     {name: "Gallery", link: `${process.env.PUBLIC_URL}/galleryPage`},
     {name: "Game", link: `${process.env.PUBLIC_URL}/gamePage`},
   ]
