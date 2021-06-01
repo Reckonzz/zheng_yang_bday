@@ -13,7 +13,7 @@ const ImageComponent = (props) => {
                     <div class="flip-card-back">
                         <h1>{props.wish.name}</h1>
                         <p>{props.wish.caption}</p>
-                        <p>{props.wish.message}</p>
+                        <p style={{fontSize:`${props.wish.fontSize ? props.wish.fontSize :''} `}}>{props.wish.message}</p>
                     </div>
                 </div>
             </div>
