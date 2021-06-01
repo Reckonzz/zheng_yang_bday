@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/zheng_yang_bday/static/css/main.49f62ba4.chunk.css",
-    "main.js": "/zheng_yang_bday/static/js/main.5708b537.chunk.js",
-    "main.js.map": "/zheng_yang_bday/static/js/main.5708b537.chunk.js.map",
+    "main.css": "/zheng_yang_bday/static/css/main.5ae34555.chunk.css",
+    "main.js": "/zheng_yang_bday/static/js/main.47e1c40e.chunk.js",
+    "main.js.map": "/zheng_yang_bday/static/js/main.47e1c40e.chunk.js.map",
     "runtime-main.js": "/zheng_yang_bday/static/js/runtime-main.bfe1cf05.js",
     "runtime-main.js.map": "/zheng_yang_bday/static/js/runtime-main.bfe1cf05.js.map",
     "static/js/2.5e69defe.chunk.js": "/zheng_yang_bday/static/js/2.5e69defe.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d4efdbde.chunk.js": "/zheng_yang_bday/static/js/3.d4efdbde.chunk.js",
     "static/js/3.d4efdbde.chunk.js.map": "/zheng_yang_bday/static/js/3.d4efdbde.chunk.js.map",
     "index.html": "/zheng_yang_bday/index.html",
-    "static/css/main.49f62ba4.chunk.css.map": "/zheng_yang_bday/static/css/main.49f62ba4.chunk.css.map",
+    "static/css/main.5ae34555.chunk.css.map": "/zheng_yang_bday/static/css/main.5ae34555.chunk.css.map",
     "static/js/2.5e69defe.chunk.js.LICENSE.txt": "/zheng_yang_bday/static/js/2.5e69defe.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/zheng_yang_bday/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfe1cf05.js",
     "static/js/2.5e69defe.chunk.js",
-    "static/css/main.49f62ba4.chunk.css",
-    "static/js/main.5708b537.chunk.js"
+    "static/css/main.5ae34555.chunk.css",
+    "static/js/main.47e1c40e.chunk.js"
   ]
 }
